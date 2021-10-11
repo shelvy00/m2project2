@@ -16,3 +16,26 @@ header {
 	padding: 40px;
 	background-color: black;
 }
+
+.item-1, .item-2, .item-3 {
+background-image: url(https://www.apple.com/v/apple-events/home/s/images/september-2021/meta/og__fodnljjkwl6y.jpg?202109101649);
+background-size: cover;
+text-align: center;	
+padding: 70px;
+}
+
+.content-3 {
+	text-align: center;
+	padding: 50PX;
+}
+.contact {
+	background-color: yellowgreen;
+	padding: 100px;
+	color: white;
+	text-align: center;
+}
+
+.copyright {
+	text-align: center;
+	padding: 30px;
+}
