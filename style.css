@@ -1,10 +1,14 @@
 header {
 	background-image: url(https://media.cntraveler.com/photos/5eb18e42fc043ed5d9779733/16:9/w_2580,c_limit/BlackForest-Germany-GettyImages-147180370.jpg);
-	width: 100%;
 	text-align: center;
 	background-size: cover;
-	padding: 150px 100px;
 	background-position: center;
+	height: 100vh;
+	width: 100vw;
+	padding: 150px 50px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
 }
 
 .intro {
