@@ -24,8 +24,8 @@ header {
 .item-1, .item-2, .item-3 {
 background-image: url(https://www.apple.com/v/apple-events/home/s/images/september-2021/meta/og__fodnljjkwl6y.jpg?202109101649);
 background-size: cover;
-text-align: center;	
-padding: 70px;
+text-align: center;
+padding: 70px;	
 }
 
 .content-3 {
@@ -42,4 +42,9 @@ padding: 70px;
 .copyright {
 	text-align: center;
 	padding: 30px;
+}
+
+.row {
+	margin-left: auto;
+	margin-right: auto;
 }
